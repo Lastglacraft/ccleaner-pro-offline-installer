@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="CCleaner Pro interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/CCleaner_5.png/800px-CCleaner_5.png" />
+<img width="2880" height="1620" alt="CCleaner Pro interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
 </div>
 
 ---
